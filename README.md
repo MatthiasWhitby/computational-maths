@@ -1,7 +1,7 @@
 # Computational Maths
 
-This repository contains maths, algorithms, and computational problem-solving projects.
+This repository contains math problems and solutions, algorithms, and computational problem-solving projects.
 Focus areas:
- - Algorithms & problem solving
- - Mathematical computation
+ - Algorithm creation & problem solving
+ - Computational mathematics
  - Competition-style thinking
