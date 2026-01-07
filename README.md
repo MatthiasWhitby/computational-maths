@@ -1,2 +1,7 @@
-# computational-maths
-Maths + Algorithm Projects (A-Level + Olympiad + Uni prep)
+# Computational Maths
+
+This repository contains maths, algorithms, and computational problem-solving projects.
+Focus areas:
+ - Algorithms & problem solving
+ - Mathematical computation
+ - Competition-style thinking
